@@ -1,0 +1,1 @@
+Example of FileHandling by reading content  of file

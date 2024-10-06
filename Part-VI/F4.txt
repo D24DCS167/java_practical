@@ -1,0 +1,4 @@
+and this is also for 
+multiple
+files as command line
+input

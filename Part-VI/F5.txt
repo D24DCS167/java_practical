@@ -1,0 +1,3 @@
+file for copying data from one file to another file.
+
+Example of FileHandling by reading content  of file
