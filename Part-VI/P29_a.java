@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class P29_a {
     public static void main(String[] args) {
         
-        //String filePath = "F1_p28.txt";
+        //String filePath = "F1.txt";
         //String wordToSearch = "java";
         Scanner sc = new Scanner(System.in);
         System.out.println("\nEnter File Name : ");
