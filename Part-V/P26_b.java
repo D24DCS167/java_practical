@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P5_26_1 {
+public class P26_b {
     public static void divide(int numerator, int denominator) throws ArithmeticException 
     {
         if (denominator == 0) {
