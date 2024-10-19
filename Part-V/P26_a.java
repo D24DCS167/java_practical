@@ -13,7 +13,7 @@ class AgeNotValidException extends Exception {
     }
 }
 
-public class P5_26 {
+public class P26_a {
     public static void checkAge(int age) throws  AgeNotValidException {
         if (age < 18 && age < 60) {
             throw new AgeNotValidException("Age is not valid to vote.");
